@@ -1,0 +1,130 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/structure/grille,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/template_noop)
+"e" = (
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/structure/window/reinforced/spawner/directional/west,
+/obj/structure/grille,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/template_noop)
+"k" = (
+/obj/structure/window/reinforced/spawner/directional/east,
+/obj/structure/window/reinforced/spawner/directional/south,
+/obj/structure/grille,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/template_noop)
+"m" = (
+/obj/effect/landmark/ragecage/second,
+/obj/effect/turf_decal/box,
+/turf/open/floor/engine,
+/area/template_noop)
+"p" = (
+/obj/structure/window/reinforced/spawner/directional/east,
+/obj/structure/grille,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/template_noop)
+"y" = (
+/obj/structure/window/reinforced/spawner/directional/east,
+/obj/structure/window/reinforced/spawner/directional/north,
+/obj/structure/grille,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/template_noop)
+"C" = (
+/obj/effect/landmark/ragecage,
+/obj/effect/turf_decal/box,
+/turf/open/floor/engine,
+/area/template_noop)
+"J" = (
+/obj/structure/window/reinforced/spawner/directional/north,
+/obj/structure/window/reinforced/spawner/directional/west,
+/obj/structure/grille,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/template_noop)
+"L" = (
+/obj/structure/window/reinforced/spawner/directional/west,
+/obj/structure/grille,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/template_noop)
+"O" = (
+/obj/structure/window/reinforced/spawner/directional/north,
+/obj/structure/grille,
+/obj/structure/cable,
+/turf/open/floor/plating,
+/area/template_noop)
+"S" = (
+/turf/open/floor/engine,
+/area/template_noop)
+
+(1,1,1) = {"
+J
+L
+L
+L
+e
+"}
+(2,1,1) = {"
+O
+C
+S
+C
+a
+"}
+(3,1,1) = {"
+O
+S
+C
+S
+a
+"}
+(4,1,1) = {"
+O
+S
+S
+S
+a
+"}
+(5,1,1) = {"
+O
+S
+S
+S
+a
+"}
+(6,1,1) = {"
+O
+S
+S
+S
+a
+"}
+(7,1,1) = {"
+O
+S
+m
+S
+a
+"}
+(8,1,1) = {"
+O
+m
+S
+m
+a
+"}
+(9,1,1) = {"
+y
+p
+p
+p
+k
+"}
