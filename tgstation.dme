@@ -6858,4 +6858,5 @@
 #include "modular_event\base\ragecage\arena.dm"
 #include "modular_event\base\ragecage\duel.dm"
 #include "modular_event\base\ragecage\templates.dm"
+#include "modular_event\winter_ball_2026\bucket_volume.dm"
 // END_INCLUDE
