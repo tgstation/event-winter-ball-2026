@@ -1,0 +1,9 @@
+{
+	"strapless": [
+		{
+			"type": "icon_state",
+			"icon_state": "strapless",
+			"blend_mode": "overlay"
+		}
+	]
+}
