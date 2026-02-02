@@ -73,6 +73,7 @@
 				/obj/item/clothing/under/dress/tango = 3,
 				/obj/item/clothing/under/dress/slitdress = 3,
 				/obj/item/clothing/under/dress/strapless = 3,
+				/obj/item/clothing/under/dress/longsummerdress = 3,
 				/obj/item/clothing/under/dress/skirt/plaid = 4,
 				/obj/item/clothing/under/dress/skirt/turtleskirt = 4,
 				/obj/item/clothing/under/misc/overalls = 3,
