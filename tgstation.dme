@@ -6859,4 +6859,7 @@
 #include "modular_event\base\ragecage\duel.dm"
 #include "modular_event\base\ragecage\templates.dm"
 #include "modular_event\winter_ball_2026\buckets.dm"
+#include "modular_event\winter_ball_2026\vendors.dm"
+#include "modular_event\winter_ball_2026\clothing\dress.dm"
+#include "modular_event\winter_ball_2026\greyscale\config_types\greyscale_config\greyscale_clothes.dm"
 // END_INCLUDE
